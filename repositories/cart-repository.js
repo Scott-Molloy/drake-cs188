@@ -2,16 +2,16 @@ const uuid = require('uuid');
 
 let carts = [
     {
-        'cart_id': '5422C682-C25A-4D0E-8890-571BAAEF563B',
+        'cart_id': '44ef41f4-485b-44d6-8635-7418e026be89',
         'customer_id': 'd83ff143-9f8b-445a-8d8f-b9b8fe0f9f28',
-        'created_date': new Date(),
-        'purchased_date': new Date()
+        'created_date': '2020-03-08T22:06:47.876Z',
+        'purchased_date': '2020-03-08T22:06:47.876Z'
     },
     {
-        'cart_id': '5BF7639A-FD99-4611-9E1E-EBDE87113C09',
+        'cart_id': '5581858f-a20e-4ada-9ccf-dd3e2cea0eb3',
         'customer_id': 'd83ff143-9f8b-445a-8d8f-b9b8fe0f9f28',
-        'created_date': new Date(),
-        'purchased_date': new Date()
+        'created_date': '2020-03-08T22:06:47.876Z',
+        'purchased_date': '2020-03-08T22:06:47.876Z'
     }
 ];
 
