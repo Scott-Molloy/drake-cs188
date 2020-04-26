@@ -8,7 +8,6 @@ const {
 
 const mapToModel = (item) => ({
     description: item['description'],
-    image: item['image'],
     itemId: item['item_id'],
     price: item['price']
 });
